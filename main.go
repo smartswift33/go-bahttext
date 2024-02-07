@@ -1,4 +1,4 @@
-package go_bahttext
+package bahttext
 
 import (
 	"fmt"
